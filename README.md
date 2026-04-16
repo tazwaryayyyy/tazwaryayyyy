@@ -1,0 +1,199 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,40:0a3d52,100:00b4d8&height=220&section=header&text=Tazwar%20Ahnaf&fontSize=56&fontColor=e0f7fa&fontAlignY=40&desc=Building%20the%20Accountability%20Infrastructure%20for%20AI&descAlignY=62&descColor=80deea&descSize=18&animation=fadeIn" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=2000&color=00B4D8&center=true&vCenter=true&width=780&lines=AI+decisions+must+be+provable%2C+enforceable%2C+and+economically+accountable.;If+it+can%27t+be+verified%2C+it+doesn%27t+execute.;Slash+stakes+on+anomalies.+Withhold+payment+on+low+quality.;Trust+decays+unless+continuously+verified.;I+don%27t+just+build+AI+apps.+I+build+the+rules+they+must+obey.)](https://git.io/typing-svg)
+
+<br/>
+
+[![X](https://img.shields.io/badge/%40TazwarEnan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TazwarEnan)
+[![LinkedIn](https://img.shields.io/badge/Tazwar%20Ahnaf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tazwar-ahnaf-1872b8362)
+[![Instagram](https://img.shields.io/badge/tazwarahanafenan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tazwarahanafenan)
+
+</div>
+
+---
+
+## ⚡ The Philosophy
+
+> **"AI decisions must be provable, enforceable, and economically accountable — or they don't execute."**
+
+```
+RULE I   → PROVABLE      Every AI decision is sealed, timestamped, and verifiable on-chain or in memory.
+RULE II  → ENFORCEABLE   Bad decisions trigger automatic stake slashing and conditional payment withholding.
+RULE III → ACCOUNTABLE   Trust decays. Payments are conditional. Sensitive actions require step-up approval.
+```
+
+| Rule | Mechanism | Projects |
+|------|-----------|----------|
+| **PROVABLE** | Seal decisions on HCS. EMA trust scoring for every memory. | `AegisMorpheme-X` · `Memoire` |
+| **ENFORCEABLE** | Quality gate < 0.70 → payment withheld. Anomaly detected → stake slashed. | `ArcReflex` · `AegisMorpheme-X` |
+| **ACCOUNTABLE** | CIBA step-up auth. Scoped tokens per action. AI self-audits before submission. Contract rejection before execution. | `Proxy Me` · `AuthBridge` · `QuotaDrift` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tazwarayyyy&show_icons=true&theme=dark&bg_color=0d1b2a&title_color=00b4d8&icon_color=00b4d8&text_color=e0f7fa&border_color=0e4d5c&rank_icon=github&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=tazwarayyyy&theme=dark&background=0d1b2a&ring=00b4d8&fire=00e5ff&currStreakLabel=00b4d8&sideLabels=e0f7fa&currStreakNum=e0f7fa&sideNums=e0f7fa&dates=80deea&border=0e4d5c" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🔢 By The Numbers
+
+| Metric | Value | Project |
+|--------|-------|---------|
+| Cost for **225 autonomous agent nanopayments** | `$0.025` total | ArcReflex |
+| Gas savings vs. Ethereum for same payments | **`19,080×`** cheaper | ArcReflex |
+| Memory recall latency (single `.db`, no infra) | **`6ms`** | Memoire |
+| Prior Authorization letter generation time | **`< 30 seconds`** | AuthBridge |
+| Quality threshold — pay or withhold | **`≥ 0.70`** score required | ArcReflex |
+| Solo build time for full autonomous economic system | **`5 days`** | ArcReflex |
+| Ethereum-equivalent cost of ArcReflex payments | **`$477`** (paid `$0.025`) | ArcReflex |
+| Emergency UI trigger threshold (Debt Spiral) | **`DTI > 43%`** | Debt Spiral |
+| Hallucination tolerance before PA submission | **`Zero`** | AuthBridge |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [⚖️ AegisMorpheme-X](https://github.com/tazwarayyyy/aegismorpheme-x)
+
+Decentralized governance layer for AI agents. Every decision is **sealed and timestamped on Hedera HCS**. The **Meta-Sentinel** monitors agent behavior and autonomously **slashes stakes via HTS** on detected anomalies — no human approval required.
+
+![Hedera](https://img.shields.io/badge/Hedera%20HCS%2FHTS-1D1D1D?style=for-the-badge&logo=hedera&logoColor=00b4d8)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1b2a?style=for-the-badge&logo=langchain&logoColor=00b4d8)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00b4d8)
+![TinyML](https://img.shields.io/badge/TinyML-1D1D1D?style=for-the-badge&logo=tensorflow&logoColor=00b4d8)
+
+🔗 **[aegis-morpheme-x.vercel.app](https://aegis-morpheme-x.vercel.app)**
+
+</td>
+    <td width="50%" valign="top">
+
+### [💸 ArcReflex](https://github.com/tazwarayyyy/arcreflex)
+
+Autonomous Economic Nervous System. AI agents pay each other per action via **Circle Nanopayments on Arc**. **225 payments = `$0.025`** (`19,080×` cheaper than Ethereum). **Payment is withheld if agent quality < 0.70.** ERC-8004 reputation staking. USYC yield. Built solo in **5 days**.
+
+![Arc](https://img.shields.io/badge/Arc-1D1D1D?style=for-the-badge&logo=ethereum&logoColor=00b4d8)
+![Vyper](https://img.shields.io/badge/Vyper-1D1D1D?style=for-the-badge&logo=python&logoColor=00b4d8)
+![USDC](https://img.shields.io/badge/USDC-2775CA?style=for-the-badge&logo=circle&logoColor=white)
+![EIP-3009](https://img.shields.io/badge/EIP--3009-1D1D1D?style=for-the-badge&logo=ethereum&logoColor=00b4d8)
+![x402](https://img.shields.io/badge/x402-1D1D1D?style=for-the-badge&logo=http&logoColor=00b4d8)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [🧠 Memoire](https://github.com/tazwarayyyy/memoire)
+
+Self-correcting memory engine for AI agents, written in **Rust**. Decides what to trust using **EMA-based scoring**. Contradictions are resolved automatically. Wrong memories are penalized. **`6ms` recall latency.** Runs in a single `.db` file. No infrastructure needed.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![ONNX](https://img.shields.io/badge/ONNX-005571?style=for-the-badge&logo=onnx&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1D1D1D?style=for-the-badge&logo=protocol&logoColor=00b4d8)
+![Python](https://img.shields.io/badge/Python%20cFFI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+    <td width="50%" valign="top">
+
+### [🏥 AuthBridge](https://github.com/tazwarayyyy/authbridge)
+
+Prior Authorization liberation agent. **FHIR R4-native**, reads clinical records directly, scores evidence, and drafts PA letters in **< 30 seconds**. AI **self-audits every output for hallucination** before submission. MCP + A2A protocol native.
+
+![MCP](https://img.shields.io/badge/MCP-1D1D1D?style=for-the-badge&logo=protocol&logoColor=00b4d8)
+![FHIR R4](https://img.shields.io/badge/FHIR%20R4-B5351E?style=for-the-badge&logo=redcross&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-1D1D1D?style=for-the-badge&logo=google&logoColor=00b4d8)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o%20mini-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ More Projects
+
+| Project | One-Liner | Stack |
+|---------|-----------|-------|
+| [**Proxy Me**](https://github.com/tazwarayyyy/proxy-me) | AI meeting assistant that **asks before acting** — Auth0 CIBA step-up approval, FGA role-based permissions, per-action scoped tokens | Auth0 · CIBA · FGA · Groq · WebSocket |
+| [**WillSpend**](https://github.com/tazwarayyyy/willspend) | Financial Inaction Engine — measures the exact **opportunity cost of every day you don't act**, with AI-advised recovery roadmaps | React · FastAPI · Groq · TypeScript · Framer Motion |
+| [**QuotaDrift**](https://github.com/tazwarayyyy/quotadrift) | Contract-driven AI reliability — every request carries **explicit latency/cost constraints**; impossible contracts are **rejected before execution** | Python · FastAPI · Pydantic · Docker |
+| [**ROCmPort AI**](https://github.com/tazwarayyyy/rocmport-ai) | Paste CUDA → 5 AI agents port to ROCm/HIP, optimize for MI300X, benchmark on real hardware | Groq · FastAPI · CrewAI · SSE |
+| [**Constit**](https://github.com/tazwarayyyy/constit) | AI civic campaign manager — generates **GSM/SHAFT-compliant** SMS variants for political outreach at scale | Next.js · TypeScript · Supabase · Groq |
+| [**Debt Spiral**](https://github.com/tazwarayyyy/debt-spiral) | Reveals the exact moment debt becomes unrecoverable — **UI shifts to Emergency Landing Mode** when DTI > 43% | FastAPI · Vanilla JS · Chart.js · Groq |
+| [**Sativus AI**](https://github.com/tazwarayyyy/sativus-ai) | Conversational plant doctor using **native Gemini Live API voice** — real-time diagnosis, zero latency | Gemini 2.0 · FastAPI · WebSocket |
+
+---
+
+## 🧬 Tech DNA
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vyper](https://img.shields.io/badge/Vyper-1D1D1D?style=for-the-badge&logo=python&logoColor=00b4d8)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00b4d8)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1b2a?style=for-the-badge&logo=langchain&logoColor=00b4d8)
+![CrewAI](https://img.shields.io/badge/CrewAI-1D1D1D?style=for-the-badge&logo=robot&logoColor=00b4d8)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Protocols & Web3**
+
+![Hedera](https://img.shields.io/badge/Hedera%20HCS%2FHTS-1D1D1D?style=for-the-badge&logo=hedera&logoColor=00b4d8)
+![EIP-3009](https://img.shields.io/badge/EIP--3009-1D1D1D?style=for-the-badge&logo=ethereum&logoColor=00b4d8)
+![ERC-8004](https://img.shields.io/badge/ERC--8004-1D1D1D?style=for-the-badge&logo=ethereum&logoColor=00b4d8)
+![FHIR R4](https://img.shields.io/badge/FHIR%20R4-B5351E?style=for-the-badge&logo=redcross&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1D1D1D?style=for-the-badge&logo=protocol&logoColor=00b4d8)
+![A2A](https://img.shields.io/badge/A2A-1D1D1D?style=for-the-badge&logo=google&logoColor=00b4d8)
+![x402](https://img.shields.io/badge/x402-1D1D1D?style=for-the-badge&logo=http&logoColor=00b4d8)
+![CIBA](https://img.shields.io/badge/CIBA-1D1D1D?style=for-the-badge&logo=auth0&logoColor=00b4d8)
+
+**AI & Tools**
+
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-1D1D1D?style=for-the-badge&logo=groq&logoColor=00b4d8)
+![Gemini 2.0](https://img.shields.io/badge/Gemini%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005571?style=for-the-badge&logo=onnx&logoColor=white)
+![TinyML](https://img.shields.io/badge/TinyML-1D1D1D?style=for-the-badge&logo=tensorflow&logoColor=00b4d8)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=tazwarayyyy&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d52,100:0d1b2a&height=130&section=footer" />
+
+</div>
