@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,45:1c2541,100:3a506b&height=180&section=header&text=TAZWAR%20AHNAF&fontSize=48&fontColor=f8f9fa&fontAlignY=45" />
 
-### Agentic Systems Engineer
 Designing reliable AI products where decisions are auditable, payments are programmable, and behavior is measurable.
 
 [![X](https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=white)](https://x.com/TazwarEnan)
