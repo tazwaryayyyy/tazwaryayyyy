@@ -22,23 +22,23 @@ Designing reliable AI products where decisions are auditable, payments are progr
 
 ## Signature Projects
 
-### [AegisMorpheme-X](https://github.com/tazwarayyyy/aegismorpheme-x)
+### [AegisMorpheme-X](https://github.com/tazwaryayyyy/aegismorpheme-x)
 Governance layer for AI agents with immutable decision logging on Hedera and automated slashing logic for unsafe behavior.
 
 **Stack:** Hedera HCS/HTS, LangGraph, FastAPI, React, TinyML  
 **Live:** [aegis-morpheme-x.vercel.app](https://aegis-morpheme-x.vercel.app)
 
-### [ArcReflex](https://github.com/tazwarayyyy/arcreflex)
+### [ArcReflex](https://github.com/tazwaryayyyy/arcreflex)
 Autonomous economic nervous system where agents can perform quality-gated nanopayments with programmable settlement rules.
 
 **Stack:** Arc, Vyper, Circle USDC, EIP-3009, x402
 
-### [Memoire](https://github.com/tazwarayyyy/memoire)
+### [Memoire](https://github.com/tazwaryayyyy/memoire)
 Self-correcting memory runtime in Rust with contradiction handling, scoring decay, and single-file persistence.
 
 **Stack:** Rust, ONNX, SQLite, MCP, Python cFFI
 
-### [AuthBridge](https://github.com/tazwarayyyy/authbridge)
+### [AuthBridge](https://github.com/tazwaryayyyy/authbridge)
 FHIR-native prior authorization agent that evaluates evidence and drafts submission-ready letters with self-audit safeguards.
 
 **Stack:** FHIR R4, FastAPI, MCP, A2A, GPT-4o mini
@@ -49,13 +49,13 @@ FHIR-native prior authorization agent that evaluates evidence and drafts submiss
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [Proxy Me](https://github.com/tazwarayyyy/proxy-me) | AI meeting assistant with explicit user approval before actions | Auth0, CIBA, FGA, Groq, WebSocket |
-| [WillSpend](https://github.com/tazwarayyyy/willspend) | Opportunity-cost engine for delayed financial decisions | React, FastAPI, TypeScript, Groq |
-| [QuotaDrift](https://github.com/tazwarayyyy/quotadrift) | Contract-driven reliability with up-front feasibility checks | Python, FastAPI, Pydantic, Docker |
-| [ROCmPort AI](https://github.com/tazwarayyyy/rocmport-ai) | CUDA-to-ROCm/HIP porting workflow with multi-agent optimization | Groq, FastAPI, CrewAI, SSE |
-| [Constit](https://github.com/tazwarayyyy/constit) | AI civic campaign manager for compliant outreach generation | Next.js, TypeScript, Supabase, Groq |
-| [Debt Spiral](https://github.com/tazwarayyyy/debt-spiral) | Debt risk visualization with emergency-state UX switching | FastAPI, JavaScript, Chart.js, Groq |
-| [Sativus AI](https://github.com/tazwarayyyy/sativus-ai) | Real-time conversational plant diagnosis using native voice APIs | Gemini 2.0, FastAPI, WebSocket |
+| [Proxy Me](https://github.com/tazwaryayyyy/proxy-me) | AI meeting assistant with explicit user approval before actions | Auth0, CIBA, FGA, Groq, WebSocket |
+| [WillSpend](https://github.com/tazwaryayyyy/willspend) | Opportunity-cost engine for delayed financial decisions | React, FastAPI, TypeScript, Groq |
+| [QuotaDrift](https://github.com/tazwaryayyyy/quotadrift) | Contract-driven reliability with up-front feasibility checks | Python, FastAPI, Pydantic, Docker |
+| [ROCmPort AI](https://github.com/tazwaryayyyy/rocmport-ai) | CUDA-to-ROCm/HIP porting workflow with multi-agent optimization | Groq, FastAPI, CrewAI, SSE |
+| [Constit](https://github.com/tazwaryayyyy/constit) | AI civic campaign manager for compliant outreach generation | Next.js, TypeScript, Supabase, Groq |
+| [Debt Spiral](https://github.com/tazwaryayyyy/debt-spiral) | Debt risk visualization with emergency-state UX switching | FastAPI, JavaScript, Chart.js, Groq |
+| [Sativus AI](https://github.com/tazwaryayyyy/sativus-ai) | Real-time conversational plant diagnosis using native voice APIs | Gemini 2.0, FastAPI, WebSocket |
 
 ---
 
@@ -73,7 +73,7 @@ FHIR-native prior authorization agent that evaluates evidence and drafts submiss
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=tazwarayyyy&style=flat-square&color=3a506b&label=profile%20views)
+![Profile Views](https://komarev.com/ghpvc/?username=tazwaryayyyy&style=flat-square&color=3a506b&label=profile%20views)
 
 <sub>Building uncommon systems with clear constraints and real-world utility.</sub>
 
