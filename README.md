@@ -55,7 +55,7 @@ FHIR-native prior authorization agent that evaluates evidence and drafts submiss
 | [ROCmPort AI](https://github.com/tazwaryayyyy/rocmport-ai) | CUDA-to-ROCm/HIP porting workflow with multi-agent optimization | Groq, FastAPI, CrewAI, SSE |
 | [Constit](https://github.com/tazwaryayyyy/constit) | AI civic campaign manager for compliant outreach generation | Next.js, TypeScript, Supabase, Groq |
 | [Debt Spiral](https://github.com/tazwaryayyyy/debt-spiral) | Debt risk visualization with emergency-state UX switching | FastAPI, JavaScript, Chart.js, Groq |
-| [Sativus AI](https://github.com/tazwaryayyyy/sativus-ai) | Real-time conversational plant diagnosis using native voice APIs | Gemini 2.0, FastAPI, WebSocket |
+| [Sativus AI](https://github.com/tazwaryayyyy/sativus-ai) | Real-time conversational plant diagnosis using native voice APIs | Groq, FastAPI, WebSocket |
 
 ---
 
